@@ -1,5 +1,3 @@
-NOM : Sérine TALEB
-GROUPE : L2-A
 SUJET : Compresseur de Huffman de fichiers 
 
 Compilation: gcc -o huffman huff.c -Wall
